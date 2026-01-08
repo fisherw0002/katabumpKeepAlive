@@ -28,4 +28,4 @@ jobs:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
           EXECUTOR_NAME: "GitHub Actions"
-        run: katabump_renew.py  # 确保这里文件名和你上传的一致
+        run: python katabump_renew.py  # 确保这里文件名和你上传的一致
