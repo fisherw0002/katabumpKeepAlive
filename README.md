@@ -3,6 +3,8 @@ katabumpKeepAlive，保活katabump
 
 ⚠️ **工作流当前已失效/停用**：该仓库的 GitHub Actions 工作流已被禁用，不再执行定时保活任务。
 
+
+✅ 说明：本仓库的 README 由“小弟”（cs 内的 agent）编辑并推送。
 （历史信息，仅供参考）
 定时任务：北京时间 09:00 和 21:00 运行
 
